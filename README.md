@@ -10,8 +10,11 @@ https://github.com/user-attachments/assets/d0a40b82-d58b-48ce-b3d7-8274a7dd49c6
 
 ### Результат 
 ## До
+
 <img width="426" height="240" alt="git_gif1" src="https://github.com/user-attachments/assets/6f858494-cabb-44bd-9b89-95bf73733eee" />
+
 ## После
+
 <img width="426" height="240" alt="git_gif1 (1)" src="https://github.com/user-attachments/assets/4544fe50-d76d-4258-9f53-7f866269a8ad" />
 
 

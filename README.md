@@ -1,3 +1,28 @@
+### Ф.И.О. обучающегося                                            
+### Сахтай Е.Н.
+### Шифр ОП                     
+### CSE8842 
+### Ф.И.О. преподавателя  
+### Ботайбеков А.О.
+
+### Приветствие 
+https://github.com/user-attachments/assets/d0a40b82-d58b-48ce-b3d7-8274a7dd49c6
+
+### Результат 
+## До
+<img width="426" height="240" alt="git_gif1" src="https://github.com/user-attachments/assets/6f858494-cabb-44bd-9b89-95bf73733eee" />
+## После
+<img width="426" height="240" alt="git_gif1 (1)" src="https://github.com/user-attachments/assets/4544fe50-d76d-4258-9f53-7f866269a8ad" />
+
+
+<img width="238" height="65" alt="hyundai_lower_roi" src="https://github.com/user-attachments/assets/20ee1f01-b223-4da6-b06c-14d69978294c" />
+<img width="128" height="32" alt="enhanced_hyundai_plate" src="https://github.com/user-attachments/assets/1a4eaa7f-6d99-496a-939e-36849c8a686f" />
+<img width="672" height="252" alt="car_44_plate" src="https://github.com/user-attachments/assets/4b1d3670-0a60-4d3f-90e6-0ceaac5da448" />
+
+# Полные версии длиной больше 1 минуты находиться в anpr_system\data
+# Исходник anpr_system\data\raw_video\Car_Sakha.mp4
+# Готовый annotated_Car_Sakha_Full.mp4
+
 # 🚗 Production-Ready ANPR / ALPR System
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -51,7 +76,7 @@ anpr_system/
 ├── tg_bot/
 │   └── bot.py             # Демонстрационный Telegram-бот
 ├── requirements.txt       # Список зависимостей
-└── README.md              # Итоговый аналитический отчет
+└── FINAL_REPORT.md              # Итоговый аналитический отчет
 ```
 
 ---

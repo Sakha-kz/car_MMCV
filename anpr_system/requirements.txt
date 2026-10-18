@@ -1,0 +1,11 @@
+torch>=2.0.0
+torchvision
+ultralytics
+opencv-python
+pillow
+tqdm
+scikit-learn
+seaborn
+pandas
+python-Levenshtein
+python-telegram-bot
